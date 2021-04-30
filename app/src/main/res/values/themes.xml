@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Profile" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <!-- Status bar color. -->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="circle">
+        <item name="cornerSize">40dp</item>
+    </style>
+
+    <style name="small_circle">
+        <item name="cornerSize">20dp</item>
+    </style>
+<!--    FrameLayout Attribute of call,massage and more icons-->
+<style name="frameLayout_call_massage_more">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="background">@drawable/circle</item>
+    <item name="android:elevation">@dimen/one_elevation</item>
+    <item name="android:padding">@dimen/xsmall_padding</item>
+</style>
+    <!--    imageView Attribute of call,massage and more icons-->
+
+    <style name="imageView_call_massage_more">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">23dp</item>
+        <item name="tint">@color/blue</item>
+    </style>
+    <!--    textView Attribute of call,massage and more icons-->
+    <style name="textView_call_massage_more">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/size_medium</item>
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">@dimen/xsmall_text_size</item>
+    </style>
+</resources>

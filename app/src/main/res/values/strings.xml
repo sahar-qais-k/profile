@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Pearl Smith</string>
+    <string name="massage_string">Massage</string>
+    <string name="more_string">More</string>
+    <string name="call">Call</string>
+    <string name="alberta_canada">Alberta, Canada</string>
+    <string name="timeline">Timeline</string>
+    <string name="about">About</string>
+    <string name="friends">Friends</string>
+    <string name="photos">Photos</string>
+</resources>

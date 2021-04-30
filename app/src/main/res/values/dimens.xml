@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_normal">24dp</dimen>
+    <dimen name="second_background_top_margin">132dp</dimen>
+    <dimen name="normal_elevation">16dp</dimen>
+    <dimen name="size_small">8dp</dimen>
+    <dimen name="large_text_size">24sp</dimen>
+    <dimen name="one_elevation">1dp</dimen>
+    <dimen name="xsmall_padding">4dp</dimen>
+    <dimen name="second_background_corner">32dp</dimen>
+    <dimen name="xsmall_text_size">10sp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="size_medium">16dp</dimen>
+</resources>
